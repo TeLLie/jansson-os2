@@ -1,0 +1,13 @@
+#files add after running autoreconf -vfi
+aclocal.m4
+compile
+config.guess
+config.sub
+configure
+depcomp
+install-sh
+ltmain.sh
+missing
+test-driver
+autom4te.cache/
+jansson_private_config.h.in~
